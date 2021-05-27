@@ -1,0 +1,25 @@
+* {
+    box-sizing: inherit;
+    margin: 0;
+}
+
+header {
+    background-color: cadetblue;
+}
+
+section {
+    padding: 1rem;
+    background-color: darkgoldenrod;
+}
+
+footer {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.borde {
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 1rem;
+    padding: 1rem;
+}
